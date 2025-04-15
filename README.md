@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Kanso2003/Kanso2003/blob/main/5c7fa179-ef41-453e-b739-4e0b41e64dc3" alt="Hussein Kanso GitHub Banner">
+</p>
+
+
 # Hussein Kanso  
 
 🚀 Cybersecurity Enthusiast | SOC & Blue Team Focused | Backend Developer (C#, Python)
