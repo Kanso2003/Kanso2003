@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Kanso2003/Kanso2003/blob/main/5c7fa179-ef41-453e-b739-4e0b41e64dc3" alt="Hussein Kanso GitHub Banner">
+  <img src="https://raw.githubusercontent.com/Kanso2003/Kanso2003/main/5c7fa179-ef41-453e-b739-4e0b41e64dc3.png" alt="Hussein Kanso GitHub Banner">
 </p>
 
 
