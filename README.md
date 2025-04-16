@@ -9,7 +9,7 @@
 
 ---
 
-## About Me  
+## 🧑‍💻 About Me  
 - Cybersecurity student at USJ Lebanon  
 - Strong passion for SIEM, log analysis, and Blue Team operations  
 - Backend developer with hands-on experience in API security, PostgreSQL, JWT Auth  
@@ -17,7 +17,7 @@
 
 ---
 
-## Tech Stack  
+## 🧰 Tech Stack  
 - SOC Tools: Elastic Stack (SIEM), Trellix  
 - Backend: C#, ASP.NET Core, Python  
 - Databases: PostgreSQL, MySQL  
@@ -26,7 +26,7 @@
 
 ---
 
-## Featured Projects  
+## 🚀 Featured Projects  
 - 🎟️ Event Ticket Booking System — [GitHub Link](https://github.com/Kanso2003/EventTicketBookingSystem)  
 - 📅 Scheduling Management App — [GitHub Link](https://github.com/Kanso2003/Scheduling-Project)  
 - 🧮 iOS Style Calculator App — [GitHub Link](https://github.com/Kanso2003/CalculatorApp)  
@@ -43,7 +43,7 @@
 
 ---
 
-## Connect With Me  
+## 🔗 Connect With Me  
 - LinkedIn: [linkedin.com/in/hussein-kanso-08a58535b](https://linkedin.com/in/hussein-kanso-08a58535b)  
 - TryHackMe: [tryhackme.com/p/ExoticBerky](https://tryhackme.com/p/ExoticBerky)  
 - Email: husseinkanso2003@gmail.com  
