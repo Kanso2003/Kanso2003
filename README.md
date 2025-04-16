@@ -33,10 +33,13 @@
 
 ---
 
-## Certifications  
-- TryHackMe Pre Security  
-- TryHackMe Cyber Security 101  
-- SOC Level 1 — In Progress  
+## 🛡️ Certifications
+
+- ✅ TryHackMe Pre-Security (April 2025)  
+- ✅ TryHackMe Cyber Security 101 (April 2025)  
+- 🧠 SOC Level 1 — *In Progress*  
+- 🔰 Security Analyst Level 1 (SAL) — *Planned after SOC Level 1*  
+- 🎯 CompTIA Security+ — *Target within 6–12 months* 
 
 ---
 
